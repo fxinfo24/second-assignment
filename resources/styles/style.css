@@ -138,3 +138,19 @@ main{
     height: 129px;
     margin: 100px 40%;
 }
+.sponsors{
+    display: flex;
+    justify-content: space-between;
+}
+.footer{
+    width: 1440px;
+    height: 100px;
+    background-color: #fff4e7;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    
+}
+.footer-info{
+    padding-top: 50px;
+    text-align: center;
+}
